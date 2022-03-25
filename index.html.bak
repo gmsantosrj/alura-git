@@ -6,9 +6,9 @@
 </head>
 <body>
     <ul>
-        <li>Vagrant</li>
+        <li>Vagrant teste</li>
         <li>Docker</li>
-        <li>Ansible</li>
+        <li>Ansible Teste 2</li>
         <li>Integração Contínua</li>
     </ul>
 </body>

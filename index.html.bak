@@ -6,9 +6,13 @@
 </head>
 <body>
     <ul>
-        <li>Vagrant teste</li>
+<<<<<<< HEAD
+        <li>Vagrant teste5555</li>
+=======
+        <li>Vagrant teste12</li>
+>>>>>>> master
         <li>Docker</li>
-        <li>Ansible</li>
+        <li>Ansible Teste 2</li>
         <li>Integração Contínua</li>
     </ul>
 </body>
